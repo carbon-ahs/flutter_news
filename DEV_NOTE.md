@@ -20,3 +20,4 @@ mkdir features\f0\presentation\widgets
 '''
 
 28.09.2024: https://youtu.be/7V_P6dovixg?si=8Hxr_kD8OZyC2FFU&t=1073
+29.09.2024: No progress, seem to hard :(
